@@ -1,5 +1,5 @@
 body{
-	font-size: 16px;	
+  font-size: 16px;	
   font-family: 'Oxygen', sans-serif;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
@@ -32,14 +32,14 @@ body{
 #nav-list{
   border:1px solid;
 }
-#nav-list:nth-child(3){
+#nav-list: nth-child(3){
   border-bottom:0;
 }
 #nav-list li{
   background:#fff;
   border-bottom:2px solid;
 }
-#nav-list li:nth-child(3){
+#nav-list li: nth-child(3){
   border-bottom:0;
 }
 #nav-list li a{
